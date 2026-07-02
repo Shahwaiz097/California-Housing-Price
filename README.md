@@ -72,16 +72,3 @@ The project saves:
 | Linear Regression        | 70059.2 | 50670.5 |     0.6254 |
 | Random Forest Regression | 48781.9 | 31465.2 |     0.8184 |
 
-## GitHub Repository Name
-
-Recommended repository name:
-
-```text
-California-Housing-Price
-```
-
-Description:
-
-```text
-A simple machine learning project for California house price prediction using Python and scikit-learn.
-```
